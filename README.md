@@ -100,6 +100,7 @@ database.default.port = 3306
   <img width="1897" height="1137" alt="image" src="https://github.com/user-attachments/assets/9f7f7477-c487-453f-b7a3-95ad73e3db40" />
 
 - **Frontend (jika diletakkan di dalam backend-api):** `http://localhost/backend-api/frontend-spa/#/login`
+<img width="1841" height="1115" alt="image" src="https://github.com/user-attachments/assets/209aaa9a-5177-480e-890d-786ea8903fc3" />
 
 ### 6. Login Default
 
